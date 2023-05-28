@@ -1,0 +1,12 @@
+.bg {
+    background-image: url(/src/images/HeaderBackground.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+.bg-1 {
+    background-image: url(/src/images/bg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 800px;
+}
